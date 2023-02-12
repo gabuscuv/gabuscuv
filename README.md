@@ -18,6 +18,7 @@ I'm Gaby, A ((VR) Game)/ Fullstack-ish Software Developer from El Puerto de Sant
 | [ArrowDialogueParser](https://github.com/gabuscuv/ArrowDialogueParser)| Arrow's Dialogues Converter to CSV | golang | N/A |
 | [BacklogDatabase-Utils](https://github.com/gabuscuv/BacklogDatabase-Utils)| An Interactive Tool for an easy database autocompletion | C# (.Net 6) | LINQ, EntityFramework |
 | [UE4-Toolkit](https://github.com/gabuscuv/UE4-Toolkit-Public) | A set of scripts for CI/UEEditor-less for building/cooking | Powershell & Bourne shell (/bin/sh) | N/A |
+| [HLTB2GameList](https://github.com/gabuscuv/HLTB2GameList) | A Quick Port/Workaround to Python of my BacklogDatabase-Utils for HLTB Stats (~4.5 work hours) | Python | SQLite3 |
 
 
 ## Contributions
