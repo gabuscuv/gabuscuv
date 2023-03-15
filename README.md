@@ -19,6 +19,7 @@ I'm Gaby, A ((VR) Game)/ Fullstack-ish Software Developer from El Puerto de Sant
 | [BacklogDatabase-Utils](https://github.com/gabuscuv/BacklogDatabase-Utils)| An Interactive Tool for an easy database autocompletion | C# (.Net 6) | LINQ, EntityFramework |
 | [UE4-Toolkit](https://github.com/gabuscuv/UE4-Toolkit-Public) | A set of scripts for CI/UEEditor-less for building/cooking | Powershell & Bourne shell (/bin/sh) | N/A |
 | [HLTB2GameList](https://github.com/gabuscuv/HLTB2GameList) | A Quick Port/Workaround to Python of my BacklogDatabase-Utils for HLTB Stats (~4.5 work hours) | Python | SQLite3 |
+| [Beaten Games](https://github.com/gabuscuv/BeatenGames-Source) |  It's just a Beaten Game list made with ReactJS. (First time that I use it, ~2 work days). It pulls information from a static JSON generated with information from my database plus some reference from the IGDB database. [Live Webpage](https://cutt.ly/x81PC7S) | Javascript |  React.js |
 
 
 ## Contributions
