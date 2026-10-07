@@ -19,7 +19,7 @@ Professionally I've worked on backend services, web applications, Unreal Engine 
 
 ## 🎮 Game Technology
 
-### RosetteDisplay-ESP32_S3
+### [RosetteDisplay-ESP32_S3](https://github.com/gabuscuv/RosetteDisplay-ESP32_S3)
 High-performance multimedia display framework for ESP32-S3.
 
 - MJPEG playback
@@ -29,10 +29,28 @@ High-performance multimedia display framework for ESP32-S3.
 - Embedded UI experiments
 
 > ESP-IDF • C • FreeRTOS
+---
+### [Castanets-ESP32](https://github.com/gabuscuv/Castanets-SerialComm)
 
+ESP32-based rhythm-game controller system using ESP-NOW for wireless communication between a central hub and satellite controllers.
+
+> ESP-IDF • C • ESP-NOW
 ---
 
-### libnfc-crossengine
+### [Castanets-SerialComm](https://github.com/gabuscuv/Castanets-SerialComm)
+
+C++ serial communication component for the Castanets rhythm-game controller system, providing communication between the ESP32 hardware and the PC.  
+Designed around the same cross-engine integration approach as `libnfc-crossengine`, making the communication layer reusable across different game engines.
+
+Supports:
+- Godot
+- Unreal (Soon)
+- Unity (Soon)
+
+> C++ • Serial • nlohmann/json
+
+---
+### [libnfc-crossengine](https://github.com/gabuscuv/libnfc-crossengine)
 
 Cross-engine NFC library designed to share the same API between multiple game engines.
 
@@ -46,7 +64,7 @@ Supports:
 
 ---
 
-### vrm2openusd
+### [vrm2openusd](https://github.com/gabuscuv/vrm2openusd)
 
 Work-in-progress converter from **VRM 1.0** to **OpenUSD**.
 
@@ -56,7 +74,17 @@ Useful for game engines, DCC pipelines and Virtual Production workflows.
 
 ---
 
-### Unreal Toolkit
+### [CustomOpenXRControllerIntegration](https://github.com/gabuscuv/CustomOpenXRControllerIntegration)
+
+Unified XR button highlighting and controller interaction framework.
+
+Originally developed for my VR projects and later extracted into a reusable plugin.
+
+> Unreal Engine • C++
+
+---
+
+### [Unreal Toolkit](https://github.com/gabuscuv/Unreal-Toolkit-Public)
 
 Automation utilities for Unreal Engine.
 
@@ -66,21 +94,11 @@ Features include unattended builds, cooking and CI-friendly workflows.
 
 ---
 
-### AsyncMapFramework
+### [AsyncMapFramework](https://github.com/gabuscuv/AsyncMapFramework))
 
 Async Level Streaming framework focused on VR applications.
 
 Designed to simplify asynchronous map loading and transitions inside Unreal Engine projects.
-
-> Unreal Engine • C++
-
----
-
-### CustomOpenXRControllerIntegration
-
-Unified XR button highlighting and controller interaction framework.
-
-Originally developed for my VR projects and later extracted into a reusable plugin.
 
 > Unreal Engine • C++
 
